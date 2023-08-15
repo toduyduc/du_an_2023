@@ -84,3 +84,4 @@ beans: hạt đậu
 noise: tiếng ồn
 shout: hét lên
 twin: sinh đôi
+hello: xin chao
